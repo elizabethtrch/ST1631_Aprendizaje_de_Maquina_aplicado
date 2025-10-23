@@ -1,0 +1,8 @@
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+python3.12/
+python312/
